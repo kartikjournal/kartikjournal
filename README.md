@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kartikey Mishra</p>
+<p align="left">I am Kartik</p>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating Blogs on Hashnode ...<br>📚 I'm currently learning Linux OS ...<br>🎯 Goals: Become an Full-Stack Dev...<br>🎲 Fun fact:I am very Funny ...</p>
+<p align="left">I am Web Developer<br>📚 I'm currently learning Linux OS ...<br>🎯 Goals: Master the art of Web Development</p>
 
 ###
