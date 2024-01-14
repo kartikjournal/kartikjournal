@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Kartikey Kumar Mishra</p>
+<p align="left">I am Kartikey Kumar Mishra a Web Developer from Madhya Pradesh</p>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">I am Web Developer<br>📚 I'm currently learning Linux OS ...<br>🎯 Goals: Master the art of Web Development</p>
+<p align="left">I am Web Developer<br>📚 I'm currently learning React JS...<br>🎯 Goals: Master the art of Web Development</p>
 
 ###
