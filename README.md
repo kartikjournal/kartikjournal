@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Kartikey Kumar Mishra a Web Developer from Madhya Pradesh</p>
+<p align="left">I am Kartikey Kumar Mishra, A Web Developer from Madhya Pradesh</p>
 
 ###
 
