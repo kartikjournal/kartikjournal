@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">My Project Speaks</h1>
 
 ###
 
-<p align="left">I am Kartikey Kumar Mishra, A Web Developer from Madhya Pradesh</p>
+<p align="left">I am doing 100 Days of Code Challenge in React JS</p>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">I am Web Developer<br>📚 I'm currently learning React JS...<br>🎯 Goals: Master the art of Web Development</p>
+<p align="left">I am MERN Developer<br>📚 I'm currently learning React JS...<br>🎯 Goals: Master the art of Web Development</p>
 
 ###
