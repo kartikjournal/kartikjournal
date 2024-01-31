@@ -7,7 +7,3 @@
 ###
 
 #Project Speaks 
-
-###
-
-#myprojects
